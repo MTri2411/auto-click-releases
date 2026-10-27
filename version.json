@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "1.23",
+  "versionCode": 25,
+  "versionName": "1.24",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.23: thêm điều kiện Đơn giá tối thiểu (tiền ÷ km, k/km) — chỉ lấy chùm ngon kiểu 175k/29km ≈ 6k/km; lịch sử săn đơn giờ hiển thị luôn tỉ số k/km của từng đơn để bạn chọn ngưỡng chuẩn."
+  "notes": "Bản 1.24: điều kiện lọc chuyển sang nút chọn nhanh — không cần gõ số: Tiền (50-150k), Km (10-30), Đơn giá (5-9 k/km), chạm một cái là xong."
 }
