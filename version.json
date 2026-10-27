@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
+  "versionCode": 13,
+  "versionName": "1.12",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.11: lịch tải theo khung giờ chẵn — không gõ load liên tục (tránh bị app tính spam), chỉ bắn 3 cú quanh mốc 10s/15s/30s/1 phút chẵn tùy chọn, đúng lúc server thả đơn."
+  "notes": "Bản 1.12: gõ load đều 2s và đọc vùng đơn liên tục; riêng quanh khung giờ chẵn gõ dày 0,35s/cú để trúng lúc server thả đơn — không còn chờ đợi giữa các khung."
 }
