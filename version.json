@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.12",
+  "versionCode": 14,
+  "versionName": "1.13",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.12: gõ load đều 2s và đọc vùng đơn liên tục; riêng quanh khung giờ chẵn gõ dày 0,35s/cú để trúng lúc server thả đơn — không còn chờ đợi giữa các khung."
+  "notes": "Bản 1.13: UI lọc mới không còn toán tử gây nhầm — Chùm đơn chọn chip Tất cả/2+/3+/4+/5+ (luôn nghĩa là từ X đơn trở lên), Tiền = tối thiểu, Km = tối đa, để 0 là tắt. Sửa lỗi chọn 2 mà chùm 4 không được nhận."
 }
