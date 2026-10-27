@@ -1,6 +1,6 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
+  "versionCode": 10,
+  "versionName": "1.9",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.8: viết lại cơ chế cài cập nhật — mở thẳng trình cài đặt hệ thống như khi bạn cài APK từ Chrome, tương thích mọi dòng máy."
+  "notes": "Bản 1.9: sửa lỗi bot bị 'đói' lượt đọc khi app đang tải (phản ứng ≤100ms sau mỗi thay đổi UI), đọc cây giao diện nhẹ hơn nhiều, chỉ tải lại khi màn hình im lặng để không hủy request đang chạy của app tài xế."
 }
