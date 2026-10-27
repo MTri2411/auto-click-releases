@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "1.29",
+  "versionCode": 31,
+  "versionName": "1.30",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.29: sửa 2 lỗi từ log — mạch nới nhịp giờ đếm theo SỐ CÚ bị app làm ngơ (500→1500ms tự điều chỉnh), nút reload tìm theo nhãn/content-desc trước tọa độ vì nút đổi vị trí giữa trạng thái trống và có đơn."
+  "notes": "Bản 1.30: khôi phục nguyên logic phiên bản 1.27 theo yêu cầu (chỉ gõ reload khi vùng xác nhận không có đơn, vùng chưa phản hồi thì chờ)."
 }
