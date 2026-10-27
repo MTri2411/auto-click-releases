@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "1.16",
+  "versionCode": 18,
+  "versionName": "1.17",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.16: sửa lỗi tọa độ điểm chọn bị lệch — đo chính xác vị trí cửa sổ trên màn hình và tự hiệu chuẩn, điểm chạm = điểm lưu = điểm hiển thị = điểm bot bấm. Vui lòng CHỌN LẠI 3 điểm và vùng đơn sau khi cập nhật."
+  "notes": "Bản 1.17: thẻ Thông tin máy & chẩn đoán (model, Android, độ phân giải thật, dpi, system bar) kèm nút Sao chép để gửi dev; bot dùng kích thước màn hình thật từ hệ thống; tự cảnh báo điểm/vùng nằm ngoài màn hình."
 }
