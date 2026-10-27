@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "1.24",
+  "versionCode": 26,
+  "versionName": "1.25",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.24: điều kiện lọc chuyển sang nút chọn nhanh — không cần gõ số: Tiền (50-150k), Km (10-30), Đơn giá (5-9 k/km), chạm một cái là xong."
+  "notes": "Bản 1.25: chống tình trạng nhấn reload mà vùng đơn không đổi — cú chạm jitter ngẫu nhiên như người thật, và bot tự phát hiện app 'điếc' thì ngừng gõ một lúc cho app hồi (vẫn đọc đơn bình thường)."
 }
