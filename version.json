@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
+  "versionCode": 4,
+  "versionName": "1.3",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.2: lọc loại đơn Hỏa tốc (Shopee) / Đồ ăn (Delivery), hết đơn tải lại ngay, popup Rất tiếc tự nhấn Đã hiểu và săn tiếp, bỏ qua đơn cần nạp ký quỹ, lướt phải sang trái, đọc nhanh hơn nhờ so khớp chữ bỏ dấu."
+  "notes": "Bản 1.3: bot xử lý theo sự kiện UI (nhanh, không chờ đợi), chọn vùng hiển thị đơn bằng kéo khung và chỉ đọc/lướt trong vùng đó, vừa thấy 'Không còn đơn hàng' là tải lại ngay, bỏ cấu hình nhịp chạy thủ công."
 }
