@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "1.27",
+  "versionCode": 29,
+  "versionName": "1.28",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.27: chỉ gõ reload khi vùng XÁC NHẬN không có đơn (chữ trống/banner/vùng rỗng) thì gõ ngay lập tức; vùng chưa phản hồi thì đứng chờ, không spam nút load mù."
+  "notes": "Bản 1.28: thêm Log đo nhịp chẩn đoán (thẻ 5) — ghi từng mốc mili giây giữa gõ load và phản hồi vùng đơn, nút Sao chép để gửi dev phân tích."
 }
