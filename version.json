@@ -1,6 +1,6 @@
 {
-  "versionCode": 14,
-  "versionName": "1.13",
+  "versionCode": 15,
+  "versionName": "1.14",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.13: UI lọc mới không còn toán tử gây nhầm — Chùm đơn chọn chip Tất cả/2+/3+/4+/5+ (luôn nghĩa là từ X đơn trở lên), Tiền = tối thiểu, Km = tối đa, để 0 là tắt. Sửa lỗi chọn 2 mà chùm 4 không được nhận."
+  "notes": "Bản 1.14: sửa lỗi đơn khớp nhưng không nhận được — bot giờ bấm nút Nhận đơn/Đồng ý THEO CHỮ của nút (chính xác tuyệt đối), tọa độ chỉ là dự phòng; lịch sử ghi rõ trường hợp không thấy popup."
 }
