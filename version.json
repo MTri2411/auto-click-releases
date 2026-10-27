@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "1.19",
+  "versionCode": 21,
+  "versionName": "1.20",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.19: bắt banner 'không có đơn Free Pick' ngay cả khi là toast (quét chữ trong sự kiện, không cần đợi bảng hiện đầy đủ) và tải lại ngay; gỡ bỏ cơ chế khung giờ chẵn."
+  "notes": "Bản 1.20: sửa chậm khi hết đơn — không gõ load khi banner Free Pick đang hiện (app bỏ qua request), canh đúng khoảnh khắc banner ẩn mới gõ 1 cú tức thì; đơn rớt giữa banner vẫn được đọc ngay."
 }
