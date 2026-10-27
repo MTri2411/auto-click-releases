@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
+  "versionCode": 6,
+  "versionName": "1.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.4: sửa lỗi bấm Cập nhật không được — app giờ xin quyền 'cài ứng dụng không rõ nguồn' trước khi cài (chỉ 1 lần) và báo rõ kết quả cài đặt."
+  "notes": "Bản 1.5: chờ đơn hiện nhanh hơn nhiều (kiểm tra đầu tiên sau 150ms, quét lại mỗi 250ms, tối đa 1,2s là tải lại), tự đọc dự phòng toàn màn hình nếu vùng kéo bị lệch."
 }
