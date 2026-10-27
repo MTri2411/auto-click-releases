@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "1.20",
+  "versionCode": 22,
+  "versionName": "1.21",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.20: sửa chậm khi hết đơn — không gõ load khi banner Free Pick đang hiện (app bỏ qua request), canh đúng khoảnh khắc banner ẩn mới gõ 1 cú tức thì; đơn rớt giữa banner vẫn được đọc ngay."
+  "notes": "Bản 1.21: banner Free Pick vừa hiện là gõ load ngay (sàn 0,6s chống spam, hẹn giờ chính xác không chờ đợi); đơn rớt giữa banner vẫn được ưu tiên đọc trước."
 }
