@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
+  "versionCode": 5,
+  "versionName": "1.4",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.3: bot xử lý theo sự kiện UI (nhanh, không chờ đợi), chọn vùng hiển thị đơn bằng kéo khung và chỉ đọc/lướt trong vùng đó, vừa thấy 'Không còn đơn hàng' là tải lại ngay, bỏ cấu hình nhịp chạy thủ công."
+  "notes": "Bản 1.4: sửa lỗi bấm Cập nhật không được — app giờ xin quyền 'cài ứng dụng không rõ nguồn' trước khi cài (chỉ 1 lần) và báo rõ kết quả cài đặt."
 }
