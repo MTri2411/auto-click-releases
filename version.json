@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "1.21",
+  "versionCode": 23,
+  "versionName": "1.22",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.21: banner Free Pick vừa hiện là gõ load ngay (sàn 0,6s chống spam, hẹn giờ chính xác không chờ đợi); đơn rớt giữa banner vẫn được ưu tiên đọc trước."
+  "notes": "Bản 1.22: tối ưu riêng POCO X8 Pro — cử chỉ nhanh hơn (tap 35ms, vuốt 250ms), nhịp đọc 80ms, và sàn gõ load TỰ ĐIỀU CHỈNH 0,3s: app bỏ qua request là tự nới nhịp, phản hồi lại là về nhanh — luôn chạy sát ngưỡng không bị chặn."
 }
