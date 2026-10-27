@@ -1,6 +1,6 @@
 {
-  "versionCode": 16,
-  "versionName": "1.15",
+  "versionCode": 17,
+  "versionName": "1.16",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.15: nhận diện ngay trạng thái không có đơn qua chữ 'Chưa có gói hàng nào' + dấu hiệu vùng thấp; trạng thái trống gõ load nhịp 1,2s (nhanh nhưng không bị app tính spam), khung giờ chẵn vẫn tăng tốc."
+  "notes": "Bản 1.16: sửa lỗi tọa độ điểm chọn bị lệch — đo chính xác vị trí cửa sổ trên màn hình và tự hiệu chuẩn, điểm chạm = điểm lưu = điểm hiển thị = điểm bot bấm. Vui lòng CHỌN LẠI 3 điểm và vùng đơn sau khi cập nhật."
 }
