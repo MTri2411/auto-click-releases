@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "1.22",
+  "versionCode": 24,
+  "versionName": "1.23",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.22: tối ưu riêng POCO X8 Pro — cử chỉ nhanh hơn (tap 35ms, vuốt 250ms), nhịp đọc 80ms, và sàn gõ load TỰ ĐIỀU CHỈNH 0,3s: app bỏ qua request là tự nới nhịp, phản hồi lại là về nhanh — luôn chạy sát ngưỡng không bị chặn."
+  "notes": "Bản 1.23: thêm điều kiện Đơn giá tối thiểu (tiền ÷ km, k/km) — chỉ lấy chùm ngon kiểu 175k/29km ≈ 6k/km; lịch sử săn đơn giờ hiển thị luôn tỉ số k/km của từng đơn để bạn chọn ngưỡng chuẩn."
 }
