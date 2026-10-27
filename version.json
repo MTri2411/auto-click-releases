@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.5",
+  "versionCode": 7,
+  "versionName": "1.6",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.5: chờ đơn hiện nhanh hơn nhiều (kiểm tra đầu tiên sau 150ms, quét lại mỗi 250ms, tối đa 1,2s là tải lại), tự đọc dự phòng toàn màn hình nếu vùng kéo bị lệch."
+  "notes": "Bản 1.6: sửa triệt để lỗi cập nhật (mã -1) — app giờ tự mở hộp thoại xác nhận cài đặt của Android, bạn chỉ cần bấm Cài đặt."
 }
