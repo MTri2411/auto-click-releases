@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "1.17",
+  "versionCode": 19,
+  "versionName": "1.18",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.17: thẻ Thông tin máy & chẩn đoán (model, Android, độ phân giải thật, dpi, system bar) kèm nút Sao chép để gửi dev; bot dùng kích thước màn hình thật từ hệ thống; tự cảnh báo điểm/vùng nằm ngoài màn hình."
+  "notes": "Bản 1.18: dò vòng xoay loading cả quanh điểm Nhận đơn — khung vùng kéo có hụt so với nút thì bot vẫn thấy spinner, đồng hồ tải chính xác trên mọi cấu hình vùng."
 }
