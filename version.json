@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
+  "versionCode": 12,
+  "versionName": "1.11",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.10: bot chạy theo vòng xoay loading của app tài xế — spinner tắt là đọc ngay (~100ms), không spinner + không đơn là nhấn Load lại ngay theo nhịp 400ms không cần đợi request, chống đọc nhầm số liệu cũ trong lúc app đang tải."
+  "notes": "Bản 1.11: lịch tải theo khung giờ chẵn — không gõ load liên tục (tránh bị app tính spam), chỉ bắn 3 cú quanh mốc 10s/15s/30s/1 phút chẵn tùy chọn, đúng lúc server thả đơn."
 }
