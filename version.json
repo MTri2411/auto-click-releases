@@ -1,6 +1,6 @@
 {
-  "versionCode": 19,
-  "versionName": "1.18",
+  "versionCode": 20,
+  "versionName": "1.19",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.18: dò vòng xoay loading cả quanh điểm Nhận đơn — khung vùng kéo có hụt so với nút thì bot vẫn thấy spinner, đồng hồ tải chính xác trên mọi cấu hình vùng."
+  "notes": "Bản 1.19: bắt banner 'không có đơn Free Pick' ngay cả khi là toast (quét chữ trong sự kiện, không cần đợi bảng hiện đầy đủ) và tải lại ngay; gỡ bỏ cơ chế khung giờ chẵn."
 }
