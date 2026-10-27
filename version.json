@@ -1,6 +1,6 @@
 {
-  "versionCode": 29,
-  "versionName": "1.28",
+  "versionCode": 30,
+  "versionName": "1.29",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.28: thêm Log đo nhịp chẩn đoán (thẻ 5) — ghi từng mốc mili giây giữa gõ load và phản hồi vùng đơn, nút Sao chép để gửi dev phân tích."
+  "notes": "Bản 1.29: sửa 2 lỗi từ log — mạch nới nhịp giờ đếm theo SỐ CÚ bị app làm ngơ (500→1500ms tự điều chỉnh), nút reload tìm theo nhãn/content-desc trước tọa độ vì nút đổi vị trí giữa trạng thái trống và có đơn."
 }
