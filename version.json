@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "1.14",
+  "versionCode": 16,
+  "versionName": "1.15",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.14: sửa lỗi đơn khớp nhưng không nhận được — bot giờ bấm nút Nhận đơn/Đồng ý THEO CHỮ của nút (chính xác tuyệt đối), tọa độ chỉ là dự phòng; lịch sử ghi rõ trường hợp không thấy popup."
+  "notes": "Bản 1.15: nhận diện ngay trạng thái không có đơn qua chữ 'Chưa có gói hàng nào' + dấu hiệu vùng thấp; trạng thái trống gõ load nhịp 1,2s (nhanh nhưng không bị app tính spam), khung giờ chẵn vẫn tăng tốc."
 }
