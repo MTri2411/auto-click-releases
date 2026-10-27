@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.6: sửa triệt để lỗi cập nhật (mã -1) — app giờ tự mở hộp thoại xác nhận cài đặt của Android, bạn chỉ cần bấm Cài đặt."
+  "notes": "Bản 1.7: thêm Lịch sử săn đơn (đối chiếu bot lọc đúng điều kiện chưa: khớp/không khớp/ký quỹ/bị trễ/đã nhận), bảng điều khiển nổi trong suốt hơn để dễ nhìn app tài xế."
 }
