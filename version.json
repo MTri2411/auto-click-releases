@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "1.25",
+  "versionCode": 27,
+  "versionName": "1.26",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.25: chống tình trạng nhấn reload mà vùng đơn không đổi — cú chạm jitter ngẫu nhiên như người thật, và bot tự phát hiện app 'điếc' thì ngừng gõ một lúc cho app hồi (vẫn đọc đơn bình thường)."
+  "notes": "Bản 1.26: sửa lỗi app đứng hình mà bộ đếm gõ load vẫn chạy — cổng phát hiện 'chết' ngay sau spinner: nội dung y hệt + không spinner thì không tin dữ liệu cũ, đếm chết và nghỉ nhịp (vẫn đọc đơn mới)."
 }
