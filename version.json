@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.9",
+  "versionCode": 11,
+  "versionName": "1.10",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.9: sửa lỗi bot bị 'đói' lượt đọc khi app đang tải (phản ứng ≤100ms sau mỗi thay đổi UI), đọc cây giao diện nhẹ hơn nhiều, chỉ tải lại khi màn hình im lặng để không hủy request đang chạy của app tài xế."
+  "notes": "Bản 1.10: bot chạy theo vòng xoay loading của app tài xế — spinner tắt là đọc ngay (~100ms), không spinner + không đơn là nhấn Load lại ngay theo nhịp 400ms không cần đợi request, chống đọc nhầm số liệu cũ trong lúc app đang tải."
 }
