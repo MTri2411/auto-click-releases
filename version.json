@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "1.31",
+  "versionCode": 33,
+  "versionName": "1.32",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.31: sửa lỗi đơn khớp nhưng cứ tải lại — nút Nhận đơn/Đồng ý bấm vào nút gần tâm thẻ đang xem (không nhầm nút thẻ lộ mép), không thấy popup thì thử lại tối đa 3 lần rồi LƯỚT sang đơn kế thay vì tải lại vòng vòng."
+  "notes": "Bản 1.32: sửa lỗi nhận đơn thành công nhưng không dừng — bot giờ nhận diện snackbar 'Nhận đơn hàng thành công' và dừng ngay; thêm nút Sao chép ở thẻ Lịch sử săn đơn."
 }
