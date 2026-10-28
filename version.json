@@ -1,6 +1,6 @@
 {
-  "versionCode": 65,
-  "versionName": "4.4",
+  "versionCode": 66,
+  "versionName": "4.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.4: gõ Load đúng lúc câu hết đơn hiện lại, không gõ chồng khi thẻ đang 3 chấm."
+  "notes": "Bản 4.5: quay lại logic bản 4.3 vì bản 4.4 lỗi nhịp gõ Load."
 }
