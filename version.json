@@ -1,6 +1,6 @@
 {
-  "versionCode": 50,
-  "versionName": "2.9",
+  "versionCode": 51,
+  "versionName": "3.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.9 (debug màu): tô màu từng vùng để khoanh lỗi dư khoảng trắng — xanh dương = thẻ Trợ năng, cam = header mục 2, xanh lá = nội dung mục 2."
+  "notes": "Bản 3.0: dựng lại thẻ Trợ năng thành MỘT LinearLayout duy nhất không lồng nhau để triệt lỗi container đo cao sai (dư khoảng trắng), bỏ ký tự ✓ trong nút, xóa padding mặc định nút."
 }
