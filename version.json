@@ -1,6 +1,6 @@
 {
-  "versionCode": 63,
-  "versionName": "4.2",
+  "versionCode": 64,
+  "versionName": "4.3",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.2: cài đặt độ trong suốt và ẩn/hiện chữ trên bảng điều khiển."
+  "notes": "Bản 4.3: lịch sử săn đơn và log đọc tách ngày giờ lên trên, nội dung chữ to hơn."
 }
