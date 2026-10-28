@@ -1,6 +1,6 @@
 {
-  "versionCode": 51,
-  "versionName": "3.0",
+  "versionCode": 52,
+  "versionName": "3.1",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.0: dựng lại thẻ Trợ năng thành MỘT LinearLayout duy nhất không lồng nhau để triệt lỗi container đo cao sai (dư khoảng trắng), bỏ ký tự ✓ trong nút, xóa padding mặc định nút."
+  "notes": "Bản 3.1: xóa ký tự ✓ khỏi chip '5/5 ✓' trong header mục 2 — glyph ✓ làm TextView phình cao bất thường trên MIUI, gây khoảng trắng lớn trong vùng cam."
 }
