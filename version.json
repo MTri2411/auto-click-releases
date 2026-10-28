@@ -1,6 +1,6 @@
 {
-  "versionCode": 43,
-  "versionName": "2.2",
+  "versionCode": 44,
+  "versionName": "2.3",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.2: khôi phục nguyên giao diện và logic phiên bản 1.39 theo yêu cầu (nhịp gõ theo cạnh banner hiện lại sau chu kỳ load)."
+  "notes": "Bản 2.3: SỬA LỖI CỰC KỲ QUAN TRỌNG — bot giờ đọc và bấm được trên MỌI cửa sổ của app tài xế kể cả popup Đồng ý vẽ bằng cửa sổ riêng (trước đây không thấy popup nên nhấn lại mù và bị cướp đơn)."
 }
