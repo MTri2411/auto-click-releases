@@ -1,6 +1,6 @@
 {
-  "versionCode": 42,
-  "versionName": "2.1",
+  "versionCode": 43,
+  "versionName": "2.2",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.1: phong cách cam nền trắng + icon lineal-color, sửa lỗi thừa khoảng trống thẻ Điều kiện mở tool, icon cho từng tiêu chí lọc (hỏa tốc/đồ ăn/chùm/tiền/km/đơn giá), Lịch sử & Log chuyển sang bottom tab, thông tin máy mở bằng nút (i), nhóm nút hành động gọn hơn."
+  "notes": "Bản 2.2: khôi phục nguyên giao diện và logic phiên bản 1.39 theo yêu cầu (nhịp gõ theo cạnh banner hiện lại sau chu kỳ load)."
 }
