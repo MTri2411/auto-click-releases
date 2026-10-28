@@ -1,6 +1,6 @@
 {
-  "versionCode": 48,
-  "versionName": "2.7",
+  "versionCode": 49,
+  "versionName": "2.8",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.7: viết lại thẻ Trợ năng bằng markup inline không style chung để triệt lỗi thẻ cao bất thường/dư khoảng trắng trên MIUI, bỏ elevation thẻ."
+  "notes": "Bản 2.8: triệt tiêu toàn bộ yếu tố tùy biến thẻ Trợ năng (inline 100%, nền trơn, không weight, bỏ animation layout) để cô lập lỗi dư khoảng trắng."
 }
