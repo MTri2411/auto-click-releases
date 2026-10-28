@@ -1,6 +1,6 @@
 {
-  "versionCode": 52,
-  "versionName": "3.1",
+  "versionCode": 53,
+  "versionName": "3.2",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.1: xóa ký tự ✓ khỏi chip '5/5 ✓' trong header mục 2 — glyph ✓ làm TextView phình cao bất thường trên MIUI, gây khoảng trắng lớn trong vùng cam."
+  "notes": "Bản 3.2: xóa hoàn toàn chip '5/5' khỏi header mục 2 theo yêu cầu — header chỉ còn tiêu đề + tóm tắt trạng thái."
 }
