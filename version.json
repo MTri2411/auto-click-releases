@@ -1,6 +1,6 @@
 {
-  "versionCode": 37,
-  "versionName": "1.36",
+  "versionCode": 38,
+  "versionName": "1.37",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.36: khôi phục nguyên logic phiên bản 1.34 theo yêu cầu (nhận diện tải '3 chấm', trạng thái trống không bị phạt cooldown, sàn gõ 500ms)."
+  "notes": "Bản 1.37: trên nền 1.34 ổn định — chỉ siết nhịp NỘI BỘ của bot (chờ popup 150ms, retry nhận đơn 450ms, phản ứng sự kiện 60ms), KHÔNG tăng tần suất gõ load (vẫn 500ms) nên không bị app chặn."
 }
