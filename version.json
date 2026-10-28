@@ -1,6 +1,6 @@
 {
-  "versionCode": 57,
-  "versionName": "3.6",
+  "versionCode": 58,
+  "versionName": "3.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.6: điều kiện nhận đơn dễ phân biệt hơn. Loại đơn chỉ còn Shopee hoặc Delivery. Chùm đơn, giá tiền, tiền tối thiểu và quãng đường có công tắc tắt mở; nút gợi ý sáng bằng chữ cam."
+  "notes": "Bản 3.7: Shopee là icon hàng hóa, Delivery là icon đồ ăn. Giá tiền hiện K/Km, tiền tối thiểu hiện K, quãng đường hiện Km. Nút bảng điều khiển nằm trên header; bấm AUTO CLICK để xem thông tin máy. Bảng nổi gọn, nền trong suốt, icon màu."
 }
