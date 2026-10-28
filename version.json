@@ -1,6 +1,6 @@
 {
-  "versionCode": 64,
-  "versionName": "4.3",
+  "versionCode": 65,
+  "versionName": "4.4",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.3: lịch sử săn đơn và log đọc tách ngày giờ lên trên, nội dung chữ to hơn."
+  "notes": "Bản 4.4: gõ Load đúng lúc câu hết đơn hiện lại, không gõ chồng khi thẻ đang 3 chấm."
 }
