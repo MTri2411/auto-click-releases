@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "1.33",
+  "versionCode": 35,
+  "versionName": "1.34",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.33: sửa phản ứng chậm khi hết đơn — dò spinner toàn màn hình + nhận diện Lottie/Loading/dang tai; trạng thái trống hợp lệ không còn bị phạt cooldown nhầm; chỉ nới nhịp khi app thật sự im lặng (không spinner, không đổi nội dung, không sự kiện UI)."
+  "notes": "Bản 1.34: nhận diện trạng thái tải '3 chấm' qua dấu hiệu nút Nhận đơn vắng mặt — bot chờ đúng lúc app tải, đọc ngay khi 3 chấm tắt, không gõ mù vào giữa chừng loading."
 }
