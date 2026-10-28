@@ -1,6 +1,6 @@
 {
-  "versionCode": 55,
-  "versionName": "3.4",
+  "versionCode": 56,
+  "versionName": "3.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.4: dừng bot khi dialog Thông báo \"Bạn đã lấy đơn free-pick thành công\" hiện ra, không bấm lại Nhận đơn và không lướt sang đơn khác."
+  "notes": "Bản 3.5: sau khi bấm Nhận đơn, bot chờ dialog \"Bạn đã lấy đơn free-pick thành công\" tới 14 giây (kể cả khi đã lướt) rồi dừng. Không kết luận thất bại sau 2 giây nữa."
 }
