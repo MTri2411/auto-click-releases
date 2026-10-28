@@ -1,6 +1,6 @@
 {
-  "versionCode": 45,
-  "versionName": "2.4",
+  "versionCode": 46,
+  "versionName": "2.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.4: UI mới — nút cam chữ trắng, nút trợ năng đỏ khi chưa bật / cam ✓ khi đã bật, thẻ mở tool thu gọn, stepper ±5k cho tiền tối thiểu (kèm nút nhanh 50/100/150/190), stepper ±0,5 cho đơn giá 5-9, icon trực quan từng tiêu chí, bottom tab Lịch sử/Log, tự xóa bớt dữ liệu định kỳ."
+  "notes": "Bản 2.5: sửa lỗi dư khoảng trắng (bỏ animation làm nội dung biến mất tạm thời), TẤT CẢ nút đều nền cam chữ trắng, thẻ hiệu ứng kính mờ gradient + đổ bóng nhẹ."
 }
