@@ -1,6 +1,6 @@
 {
-  "versionCode": 46,
-  "versionName": "2.5",
+  "versionCode": 47,
+  "versionName": "2.6",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.5: sửa lỗi dư khoảng trắng (bỏ animation làm nội dung biến mất tạm thời), TẤT CẢ nút đều nền cam chữ trắng, thẻ hiệu ứng kính mờ gradient + đổ bóng nhẹ."
+  "notes": "Bản 2.6: loại bỏ fillViewport gây vùng trống giãn, stepper dạng viên thuốc cho cả 3 mục (đơn giá ±0,5 / tiền ±5k / km ±1), nút tròn cam."
 }
