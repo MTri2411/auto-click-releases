@@ -1,6 +1,6 @@
 {
-  "versionCode": 49,
-  "versionName": "2.8",
+  "versionCode": 50,
+  "versionName": "2.9",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.8: triệt tiêu toàn bộ yếu tố tùy biến thẻ Trợ năng (inline 100%, nền trơn, không weight, bỏ animation layout) để cô lập lỗi dư khoảng trắng."
+  "notes": "Bản 2.9 (debug màu): tô màu từng vùng để khoanh lỗi dư khoảng trắng — xanh dương = thẻ Trợ năng, cam = header mục 2, xanh lá = nội dung mục 2."
 }
