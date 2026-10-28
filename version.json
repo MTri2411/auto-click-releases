@@ -1,6 +1,6 @@
 {
-  "versionCode": 47,
-  "versionName": "2.6",
+  "versionCode": 48,
+  "versionName": "2.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 2.6: loại bỏ fillViewport gây vùng trống giãn, stepper dạng viên thuốc cho cả 3 mục (đơn giá ±0,5 / tiền ±5k / km ±1), nút tròn cam."
+  "notes": "Bản 2.7: viết lại thẻ Trợ năng bằng markup inline không style chung để triệt lỗi thẻ cao bất thường/dư khoảng trắng trên MIUI, bỏ elevation thẻ."
 }
