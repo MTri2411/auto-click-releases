@@ -1,6 +1,6 @@
 {
-  "versionCode": 54,
-  "versionName": "3.3",
+  "versionCode": 55,
+  "versionName": "3.4",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.3: sửa gốc hố cam — tiêu đề 'Điều kiện mở tool' dùng style CardTitle (width=0dp+weight) trong cột dọc bị đo width=0 nên chữ xuống dòng từng ký tự; ghi đè match_parent + weight=0 (giữ nguyên style dùng chung cho thẻ khác)."
+  "notes": "Bản 3.4: dừng bot khi dialog Thông báo \"Bạn đã lấy đơn free-pick thành công\" hiện ra, không bấm lại Nhận đơn và không lướt sang đơn khác."
 }
