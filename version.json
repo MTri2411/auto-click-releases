@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "1.32",
+  "versionCode": 34,
+  "versionName": "1.33",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.32: sửa lỗi nhận đơn thành công nhưng không dừng — bot giờ nhận diện snackbar 'Nhận đơn hàng thành công' và dừng ngay; thêm nút Sao chép ở thẻ Lịch sử săn đơn."
+  "notes": "Bản 1.33: sửa phản ứng chậm khi hết đơn — dò spinner toàn màn hình + nhận diện Lottie/Loading/dang tai; trạng thái trống hợp lệ không còn bị phạt cooldown nhầm; chỉ nới nhịp khi app thật sự im lặng (không spinner, không đổi nội dung, không sự kiện UI)."
 }
