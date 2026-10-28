@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "1.38",
+  "versionCode": 40,
+  "versionName": "1.39",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.38: thêm thẻ Log đọc chi tiết (thẻ 5) — ghi toàn bộ thứ bot đọc được theo cạnh chuyển: 3 chấm/spinner hiện-tắt, số liệu đơn, marker trống, vùng đổi sau gõ, chết/nghỉ; kèm mili giây từ cú gõ và nút Sao chép để phân tích nhịp reload khi trống."
+  "notes": "Bản 1.39: nhịp gõ theo chu kỳ load của app — sau khi gõ bot im lặng chờ banner bị xóa (đang tải 3 chấm, không gõ chồng), gõ NGAY tại cạnh banner hiện lại (<100ms), gõ cứu khi request rơi; nhịp tự khớp app thay vì sàn cố định."
 }
