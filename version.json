@@ -1,6 +1,6 @@
 {
-  "versionCode": 56,
-  "versionName": "3.5",
+  "versionCode": 57,
+  "versionName": "3.6",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.5: sau khi bấm Nhận đơn, bot chờ dialog \"Bạn đã lấy đơn free-pick thành công\" tới 14 giây (kể cả khi đã lướt) rồi dừng. Không kết luận thất bại sau 2 giây nữa."
+  "notes": "Bản 3.6: điều kiện nhận đơn dễ phân biệt hơn. Loại đơn chỉ còn Shopee hoặc Delivery. Chùm đơn, giá tiền, tiền tối thiểu và quãng đường có công tắc tắt mở; nút gợi ý sáng bằng chữ cam."
 }
