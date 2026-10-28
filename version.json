@@ -1,6 +1,6 @@
 {
-  "versionCode": 61,
-  "versionName": "4.0",
+  "versionCode": 62,
+  "versionName": "4.1",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.0: sửa bảng điều khiển tự chạy khi ngón tay đứng yên. Kéo theo đúng ngón tay, thả tay thì bảng dừng."
+  "notes": "Bản 4.1: bỏ màu nền tiêu đề thẻ Điều kiện mở tool."
 }
