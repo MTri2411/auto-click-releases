@@ -1,6 +1,6 @@
 {
-  "versionCode": 60,
-  "versionName": "3.9",
+  "versionCode": 61,
+  "versionName": "4.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.9: kéo bảng điều khiển mượt hơn, bám ngón tay theo từng khung hình. Chạm nhanh vào nút vẫn bấm được."
+  "notes": "Bản 4.0: sửa bảng điều khiển tự chạy khi ngón tay đứng yên. Kéo theo đúng ngón tay, thả tay thì bảng dừng."
 }
