@@ -1,6 +1,6 @@
 {
-  "versionCode": 59,
-  "versionName": "3.8",
+  "versionCode": 60,
+  "versionName": "3.9",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 3.8: bảng điều khiển có nền nhìn rõ. Nút chạy màu cam, khi đang chạy chuyển đỏ. Nút cài đặt nền đen, nút đóng nền đỏ. Dòng trạng thái nằm dưới 3 nút."
+  "notes": "Bản 3.9: kéo bảng điều khiển mượt hơn, bám ngón tay theo từng khung hình. Chạm nhanh vào nút vẫn bấm được."
 }
