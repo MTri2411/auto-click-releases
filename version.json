@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "1.35",
+  "versionCode": 37,
+  "versionName": "1.36",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.35: tăng tốc toàn chuỗi — nhịp gõ tự siết 500→400ms khi app phản hồi tốt (chỉ nới ra khi im lặng), chờ popup 250→150ms, retry nhận đơn 700→450ms, phản ứng sự kiện 80→60ms."
+  "notes": "Bản 1.36: khôi phục nguyên logic phiên bản 1.34 theo yêu cầu (nhận diện tải '3 chấm', trạng thái trống không bị phạt cooldown, sàn gõ 500ms)."
 }
