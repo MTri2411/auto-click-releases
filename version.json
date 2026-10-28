@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "1.39",
+  "versionCode": 41,
+  "versionName": "2.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.39: nhịp gõ theo chu kỳ load của app — sau khi gõ bot im lặng chờ banner bị xóa (đang tải 3 chấm, không gõ chồng), gõ NGAY tại cạnh banner hiện lại (<100ms), gõ cứu khi request rơi; nhịp tự khớp app thay vì sàn cố định."
+  "notes": "Bản 2.0: giao diện mới phong cách đen-trắng tương lai — nền tối, sticker icon màu trực quan, gộp Trợ năng vào thẻ 'Điều kiện mở tool' tự thu gọn khi đủ điều kiện, animation mở app và đóng/mở thẻ mượt mà."
 }
