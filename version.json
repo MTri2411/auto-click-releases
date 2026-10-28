@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "1.34",
+  "versionCode": 36,
+  "versionName": "1.35",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.34: nhận diện trạng thái tải '3 chấm' qua dấu hiệu nút Nhận đơn vắng mặt — bot chờ đúng lúc app tải, đọc ngay khi 3 chấm tắt, không gõ mù vào giữa chừng loading."
+  "notes": "Bản 1.35: tăng tốc toàn chuỗi — nhịp gõ tự siết 500→400ms khi app phản hồi tốt (chỉ nới ra khi im lặng), chờ popup 250→150ms, retry nhận đơn 700→450ms, phản ứng sự kiện 80→60ms."
 }
