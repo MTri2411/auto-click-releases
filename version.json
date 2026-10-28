@@ -1,6 +1,6 @@
 {
-  "versionCode": 38,
-  "versionName": "1.37",
+  "versionCode": 39,
+  "versionName": "1.38",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 1.37: trên nền 1.34 ổn định — chỉ siết nhịp NỘI BỘ của bot (chờ popup 150ms, retry nhận đơn 450ms, phản ứng sự kiện 60ms), KHÔNG tăng tần suất gõ load (vẫn 500ms) nên không bị app chặn."
+  "notes": "Bản 1.38: thêm thẻ Log đọc chi tiết (thẻ 5) — ghi toàn bộ thứ bot đọc được theo cạnh chuyển: 3 chấm/spinner hiện-tắt, số liệu đơn, marker trống, vùng đổi sau gõ, chết/nghỉ; kèm mili giây từ cú gõ và nút Sao chép để phân tích nhịp reload khi trống."
 }
