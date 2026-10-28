@@ -1,6 +1,6 @@
 {
-  "versionCode": 62,
-  "versionName": "4.1",
+  "versionCode": 63,
+  "versionName": "4.2",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.1: bỏ màu nền tiêu đề thẻ Điều kiện mở tool."
+  "notes": "Bản 4.2: cài đặt độ trong suốt và ẩn/hiện chữ trên bảng điều khiển."
 }
