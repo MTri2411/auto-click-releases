@@ -1,6 +1,6 @@
 {
-  "versionCode": 67,
-  "versionName": "4.6",
+  "versionCode": 68,
+  "versionName": "4.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.6: đơn khớp thì chạm đúng tọa độ nút Nhận đơn đã lưu, không bấm theo chữ."
+  "notes": "Bản 4.7: nhận đơn chạm giữa nút đang hiện, tránh vùng cử chỉ đáy, và gõ lại nếu nút còn."
 }
