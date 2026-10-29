@@ -1,6 +1,6 @@
 {
-  "versionCode": 70,
-  "versionName": "4.9",
+  "versionCode": 71,
+  "versionName": "5.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.9: thấy Rất tiếc thì nhấn Load ngay, không bấm Đã hiểu và không chờ popup tắt."
+  "notes": "Bản 5.0: nhận đơn chạm mép nút ngay, chỉ gõ lại một lần; lướt danh sách dài chỉ đọc thẻ đang hiện."
 }
