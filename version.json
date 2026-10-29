@@ -1,6 +1,6 @@
 {
-  "versionCode": 68,
-  "versionName": "4.7",
+  "versionCode": 69,
+  "versionName": "4.8",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 4.7: nhận đơn chạm giữa nút đang hiện, tránh vùng cử chỉ đáy, và gõ lại nếu nút còn."
+  "notes": "Bản 4.8: tài xế khác nhận thì chạm Đã hiểu rồi tải lại; lướt sang đơn kế nhanh hơn."
 }
