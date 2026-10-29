@@ -1,6 +1,6 @@
 {
-  "versionCode": 72,
-  "versionName": "5.1",
+  "versionCode": 73,
+  "versionName": "5.2",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.1: tiền tối thiểu lấy phí ship lớn nhất trên thẻ, kể cả dạng 35.000đ. Quãng đường tối đa lấy số km lớn nhất, không lấy chặng ngắn. Mốc vừa chọn có hiệu lực ngay."
+  "notes": "Bản 5.2: phí tăng cường ghi ngay sau tiền được cộng vào, ví dụ 26.7k + 5k tính là 31.7k khi lọc tiền và giá/km."
 }
