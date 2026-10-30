@@ -1,6 +1,6 @@
 {
-  "versionCode": 73,
-  "versionName": "5.2",
+  "versionCode": 74,
+  "versionName": "5.3",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.2: phí tăng cường ghi ngay sau tiền được cộng vào, ví dụ 26.7k + 5k tính là 31.7k khi lọc tiền và giá/km."
+  "notes": "Bản 5.3: lọc một lần các thẻ đã nạp rồi nhảy qua đơn không khớp, không chờ vuốt và đọc lại từng thẻ."
 }
