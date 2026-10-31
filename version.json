@@ -1,6 +1,6 @@
 {
-  "versionCode": 75,
-  "versionName": "5.4",
+  "versionCode": 76,
+  "versionName": "5.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.4: dùng lại bản quét vừa làm để chụp vùng trước khi nhảy — bớt một lần đi cây view mỗi cú lướt."
+  "notes": "Bản 5.5: khôi phục cách lướt của bản 5.3. Bản 5.4 chụp vùng lệch nên lỗi."
 }
