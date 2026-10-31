@@ -1,6 +1,6 @@
 {
-  "versionCode": 80,
-  "versionName": "5.8",
+  "versionCode": 81,
+  "versionName": "5.9",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.8: popup sau Nhận đơn trên thẻ được bấm bằng nút Nhận đơn trên popup, không ghi nhầm là chưa thấy popup."
+  "notes": "Bản 5.9: hộp Lấy đơn free-pick được bấm ngay nút Nhận đơn cạnh nút Không, không chạm lại nút dưới thẻ."
 }
