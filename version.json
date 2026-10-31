@@ -1,6 +1,6 @@
 {
-  "versionCode": 78,
-  "versionName": "5.6",
+  "versionCode": 79,
+  "versionName": "5.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.6: lướt đơn dày hơn bằng cử chỉ vuốt và đọc ngay khi thẻ đổi. Không gửi lệnh cuộn vào app tài xế."
+  "notes": "Bản 5.7: lúc app bỏ qua nút Tải, bot dậy ngay khi vùng đơn đổi thay vì ngồi hết 8 giây."
 }
