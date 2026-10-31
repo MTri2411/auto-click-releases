@@ -1,6 +1,6 @@
 {
-  "versionCode": 82,
-  "versionName": "6.0",
+  "versionCode": 83,
+  "versionName": "6.1",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 6.0: nhận thành công thì dừng. Rất tiếc thì tải lại ngay và không nhận lại đúng đơn đó."
+  "notes": "Bản 6.1: Rất tiếc thì bấm Đã hiểu, bỏ đơn đó và lướt tiếp. Chỉ tải lại khi hết đơn."
 }
