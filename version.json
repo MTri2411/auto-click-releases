@@ -1,6 +1,6 @@
 {
-  "versionCode": 79,
-  "versionName": "5.7",
+  "versionCode": 80,
+  "versionName": "5.8",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.7: lúc app bỏ qua nút Tải, bot dậy ngay khi vùng đơn đổi thay vì ngồi hết 8 giây."
+  "notes": "Bản 5.8: popup sau Nhận đơn trên thẻ được bấm bằng nút Nhận đơn trên popup, không ghi nhầm là chưa thấy popup."
 }
