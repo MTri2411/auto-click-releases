@@ -1,6 +1,6 @@
 {
-  "versionCode": 81,
-  "versionName": "5.9",
+  "versionCode": 82,
+  "versionName": "6.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.9: hộp Lấy đơn free-pick được bấm ngay nút Nhận đơn cạnh nút Không, không chạm lại nút dưới thẻ."
+  "notes": "Bản 6.0: nhận thành công thì dừng. Rất tiếc thì tải lại ngay và không nhận lại đúng đơn đó."
 }
