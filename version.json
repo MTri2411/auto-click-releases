@@ -1,6 +1,6 @@
 {
-  "versionCode": 76,
-  "versionName": "5.5",
+  "versionCode": 77,
+  "versionName": "5.2",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 5.5: khôi phục cách lướt của bản 5.3. Bản 5.4 chụp vùng lệch nên lỗi."
+  "notes": "Bản 5.2: phí tăng cường ghi ngay sau tiền được cộng vào, ví dụ 26.7k + 5k tính là 31.7k khi lọc tiền và giá/km. Đóng lại để cài đè các bản 5.3–5.5."
 }
