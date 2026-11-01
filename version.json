@@ -1,6 +1,6 @@
 {
-  "versionCode": 94,
-  "versionName": "6.8",
+  "versionCode": 95,
+  "versionName": "6.9",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 6.8: vùng đơn mặc định khớp thẻ đơn nửa dưới màn hình, từ 58% đến 97% chiều cao."
+  "notes": "Bản 6.9: Kiểm tra vị trí hiện cả vùng đơn mặc định khi chưa kéo khung."
 }
