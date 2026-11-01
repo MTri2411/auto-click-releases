@@ -1,6 +1,6 @@
 {
-  "versionCode": 86,
-  "versionName": "6.4",
+  "versionCode": 87,
+  "versionName": "6.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 6.4: đơn đã nhận và lịch sử săn đơn chuyển bằng hai tab."
+  "notes": "Bản 6.5: bật tắt bảng điều khiển bằng công tắc, bỏ nút X trên bảng nổi."
 }
