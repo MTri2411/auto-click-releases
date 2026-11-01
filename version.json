@@ -1,6 +1,6 @@
 {
-  "versionCode": 95,
-  "versionName": "6.9",
+  "versionCode": 96,
+  "versionName": "7.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 6.9: Kiểm tra vị trí hiện cả vùng đơn mặc định khi chưa kéo khung."
+  "notes": "Bản 7.0: vùng đơn thu lại vừa thẻ trắng, khoảng 3%–97% ngang và 62%–96,5% dọc."
 }
