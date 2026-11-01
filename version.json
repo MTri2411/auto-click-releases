@@ -1,6 +1,6 @@
 {
-  "versionCode": 85,
-  "versionName": "6.3",
+  "versionCode": 86,
+  "versionName": "6.4",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 6.3: tab lịch sử ghi đủ nội dung đơn đã nhận. Log đọc xếp từ mới đến cũ."
+  "notes": "Bản 6.4: đơn đã nhận và lịch sử săn đơn chuyển bằng hai tab."
 }
