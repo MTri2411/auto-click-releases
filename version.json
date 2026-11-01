@@ -1,6 +1,6 @@
 {
-  "versionCode": 88,
-  "versionName": "6.6",
+  "versionCode": 89,
+  "versionName": "6.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/auto-click.apk",
-  "notes": "Bản 6.6: gộp trợ năng vào điều kiện mở tool, có dấu đạt/thiếu. Đủ điều kiện thì thu gọn. Bỏ tay cầm kéo trên bảng nổi."
+  "notes": "Bản 6.7: đổi tên VinClick. Bản phát hành bỏ cập nhật và tab log đọc."
 }
