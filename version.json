@@ -1,6 +1,6 @@
 {
-  "versionCode": 91,
-  "versionName": "6.9",
+  "versionCode": 92,
+  "versionName": "7.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 6.9: tự canh vùng đơn theo kiểu máy và kích thước màn hình, không cần kéo khung."
+  "notes": "Bản 7.0: vùng đơn hạ xuống nửa dưới, bám nút Nhận đơn, không còn phủ vòng tròn bản đồ."
 }
