@@ -1,6 +1,6 @@
 {
-  "versionCode": 96,
-  "versionName": "7.0",
+  "versionCode": 108,
+  "versionName": "8.2",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 7.0: vùng đơn thu lại vừa thẻ trắng, khoảng 3%–97% ngang và 62%–96,5% dọc."
+  "notes": "Bản 8.2: nút cập nhật đọc file trên repo công khai, hết lỗi 404."
 }
