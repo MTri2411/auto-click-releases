@@ -1,6 +1,6 @@
 {
-  "versionCode": 110,
-  "versionName": "8.4",
+  "versionCode": 111,
+  "versionName": "8.5",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 8.4: ngoại lệ tiền cao thì bỏ qua trần km."
+  "notes": "Bản 8.5: ngoại lệ tiền cao cũng bỏ qua giá/km."
 }
