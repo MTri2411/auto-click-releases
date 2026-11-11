@@ -1,6 +1,6 @@
 {
-  "versionCode": 112,
-  "versionName": "8.6",
+  "versionCode": 113,
+  "versionName": "8.7",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 8.6: xin quyền thông báo để chuông nhận đơn kêu khi app đang nằm nền."
+  "notes": "Bản 8.7: chuông nhận đơn kêu 15 giây, bấm Ngừng chuông trên bảng nổi để tắt."
 }
