@@ -1,6 +1,6 @@
 {
-  "versionCode": 108,
-  "versionName": "8.2",
+  "versionCode": 109,
+  "versionName": "8.3",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 8.2: nút cập nhật đọc file trên repo công khai, hết lỗi 404."
+  "notes": "Bản 8.3: bớt lần đi cây trợ năng khi đọc đơn, khi chờ thẻ vào giữa và khi đang tải."
 }
