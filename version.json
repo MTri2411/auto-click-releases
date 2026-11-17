@@ -1,6 +1,6 @@
 {
-  "versionCode": 113,
-  "versionName": "8.7",
+  "versionCode": 114,
+  "versionName": "8.8",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 8.7: chuông nhận đơn kêu 15 giây, bấm Ngừng chuông trên bảng nổi để tắt."
+  "notes": "Bản 8.8: Đơn đã nhận xếp theo ngày, ngày đã qua thu gọn được. Mỗi đơn một thẻ, hiện đủ điểm đầu và điểm cuối, mili giây được tô màu."
 }
