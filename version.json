@@ -1,6 +1,6 @@
 {
-  "versionCode": 115,
-  "versionName": "8.9",
+  "versionCode": 116,
+  "versionName": "9.0",
   "apkUrl": "https://raw.githubusercontent.com/MTri2411/auto-click-releases/main/vin-click.apk",
-  "notes": "Bản 8.9: km và giá/km cùng một dòng, giá/km màu xanh. Bỏ mili giây và chữ Google Map. Đơn COD hiện phía trên điểm lấy/giao."
+  "notes": "Bản 9.0: thẻ đơn giữ tổng điểm, điểm bắt đầu và điểm kết thúc."
 }
